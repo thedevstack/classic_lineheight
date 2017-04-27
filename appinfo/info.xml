@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info>
+
+  <id>classic_lineheight</id>
+  <name>Classic Line Height</name>
+  <description>Classid Line Height - The old menu of Owncloud / Nextcloud. Forked from SpF.</description>
+  <version>1.0.0</version>
+  <licence>MIT</licence>
+  <author>Sebastian Luksch</author>
+
+  <repository type="git">https://git.fucktheforce.de/user/lookshe/classic_lineheight</repository>
+
+  <dependencies>
+    <owncloud min-version="8.0.0" max-version="100"/>
+    <owncloud min-version="9" max-version="100"/>
+  </dependencies>
+</info>
