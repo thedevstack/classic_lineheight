@@ -41,3 +41,32 @@ table td.filename a.name {
 }
 
 table td.filename .nametext, .uploadtext, .modified, .column-last>span:first-child {padding: 0px 0 !important;}
+
+#app-navigation .app-navigation-list-item .calendarCheckbox, #publicinformationscontainer .calendarCheckbox {
+  margin-top: 10px !important;
+}
+
+#app-navigation .app-navigation-list-item .utils .action span {
+  line-height: 12px !important;
+  height: 12px !important;
+  padding: 6px 6px !important;
+}
+
+#app-navigation .app-navigation-list-item .icon-loading-small {
+  margin-top: 7px !important;
+}
+
+.contact__icon {
+  height: 30px !important;
+  width: 30px !important;
+  line-height: 30px !important;
+}
+
+.app-content-list-item-line-one.no-line-two {
+  padding-top: 19px !important;
+  padding-bottom: 19px !important;
+}
+
+.app-content-list-item {
+  height: 58px !important;
+}
