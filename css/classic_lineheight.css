@@ -1,0 +1,43 @@
+#app-navigation .add-new .heading button {
+  padding: 0 0 0 32px !important;
+  line-height: 32px !important;
+}
+
+#app-navigation li > a {
+  line-height: 32px !important;
+  min-height: 32px !important;
+}
+
+#app-navigation .app-navigation-entry-utils li {
+  height: 32px !important;
+  line-height: 32px !important;
+}
+
+#app-navigation .app-navigation-entry-utils button {
+  height: 28px !important;
+  line-height: 28px !important;
+}
+
+#fileList tr td.filename>.selectCheckBox + label,
+.select-all + label {
+  height: 44px !important;
+  width: 46px !important;
+}
+
+table td.filename .thumbnail {
+  width: 28px !important;
+  height: 28px !important;
+  margin-top: 0px !important;
+}
+
+table td.filename a.name {
+  height: 34px !important;
+  line-height: 34px !important;
+}
+
+#fileList a.action {
+  line-height: 34px !important;
+  padding: 0px 8px !important;
+}
+
+table td.filename .nametext, .uploadtext, .modified, .column-last>span:first-child {padding: 0px 0 !important;}
