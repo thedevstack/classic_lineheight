@@ -70,3 +70,19 @@ table td.filename .nametext, .uploadtext, .modified, .column-last>span:first-chi
 .app-content-list-item {
   height: 58px !important;
 }
+
+.settings-button {
+  height: 32px !important;
+}
+
+.nav-trashbin {
+  bottom: 32px !important;
+}
+
+#app-navigation {
+  padding-bottom: 32px !important;
+}
+
+.tags_actions {
+  line-height: 32px !important;
+}
